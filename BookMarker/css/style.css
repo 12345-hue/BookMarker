@@ -1,0 +1,20 @@
+body {
+	background-color: #f8f9fa;
+}
+
+h1 {
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+.form-group label {
+	font-weight: bold;
+}
+
+.table td {
+	vertical-align: middle;
+}
+
+.edit-btn, .delete-btn {
+	margin-right: 5px;
+}
